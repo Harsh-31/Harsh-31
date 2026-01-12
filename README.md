@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
 <h3 align="center">A passionate Software Engineer (ML/AI/GenAI/Backend) in USA</h3>
 
-- 🔭 I’m currently pursuing M.S. in Computer Science at University of Southern California.**
+- 🔭 I’m currently pursuing M.S. in Computer Science at University of Southern California with focus on ML/AI courses.
 
 - 🌱 I’m passionate about ML/AI/GenAI/Backend Engineering**
 
