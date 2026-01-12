@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
 <h3 align="center">A passionate Software Engineer (ML/AI/GenAI/Backend) in USA</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 - 🔭 I’m currently pursuing M.S. in Computer Science at University of Southern California.**
 
