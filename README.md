@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Harsh Sharma
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=MSCS-AI+%40+University+of+Southern+California;NeuroSymbolic+AI+%7C+Reinforcement+Learning;Knowledge+Graphs+%7C+Agentic+AI+%7C+LLMs;Building+scalable%2C+production-ready+AI+systems)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harsh-31&color=6C63FF&style=for-the-badge)
+
+</div>
 
 ---
 
@@ -147,10 +151,11 @@ Backend & Integration:
 
 ## GitHub Analytics
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh-31&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)
+<div align="center">
+  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Harsh-31&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-31&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8)
+
+</div>
 
 ---
 
@@ -165,10 +170,14 @@ Backend & Integration:
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshsharma-3107)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-sharma-3107)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh-31)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharma.harsh3107@gmail.com)
 [![Location](https://img.shields.io/badge/Los_Angeles,_CA-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Los+Angeles,+CA)
+
+</div>
 
 ---
 
